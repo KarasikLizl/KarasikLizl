@@ -1,4 +1,7 @@
-![YHX2imyevMs](https://user-images.githubusercontent.com/88044471/130312577-b493a424-c2db-4cc6-a9f3-3f8070c23a1f.jpg)
+Me, looking at ur code:
+
+![FB_IMG_1610023982480](https://user-images.githubusercontent.com/88044471/130312705-8e1156b9-d810-4b84-85d5-3934ac23a79d.jpg)
+
 
 
 <!--
