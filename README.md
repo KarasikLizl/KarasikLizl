@@ -5,7 +5,7 @@
 <h1 align="center">✨ Привет, меня зовут Лиза ✨</h1>
 <h3 align="center">Frontend developer</h3>
 
-<h3>Мой стек</h3>
+<h3>Мой стек:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
@@ -16,12 +16,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>Планирую изучить</h3>
+<h3>Планирую изучить:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </div>
+<h3>Статистика:</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarasikLizl&show_icons=true&theme=tokyonight)
+  
 
 
 <!--
