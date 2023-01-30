@@ -5,6 +5,12 @@
 <h1 align="center">✨ Привет, меня зовут Лиза ✨</h1>
 <h3 align="center">Frontend developer</h3>
 
+<ul>
+    <li>Хочу делать полезные и классные фичи</li>
+    <li>Изучаю новые технологии</li>
+    <li>Мечтаю поработать над реальными проектами</li>
+</ul>
+
 <h3>Мой стек:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -21,6 +27,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </div>
+
+<h3>Контакты:</h3>
+<div><i>Telegram: @effy_crush</i></div>
+<div><i>Email: kruchininael1@gmail.com</i></div>
+
 <h3>Статистика:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarasikLizl&show_icons=true&theme=tokyonight)&nbsp;
