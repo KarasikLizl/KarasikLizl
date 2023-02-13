@@ -5,12 +5,6 @@
 <h1 align="center">✨ Привет, меня зовут Лиза ✨</h1>
 <h3 align="center">Frontend developer</h3>
 
-<ul>
-    <li>Хочу делать полезные и классные фичи</li>
-    <li>Осваиваю новые технологии</li>
-    <li>Мечтаю поработать над реальными проектами</li>
-</ul>
-
 <h3>Мой стек:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
